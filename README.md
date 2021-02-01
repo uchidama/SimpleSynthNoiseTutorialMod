@@ -1,5 +1,5 @@
 # SimpleSynthNoiseTutorialMod
-This project that is based simple synth noise tutorial is modified to write log.  
+This JUCE project that is based simple synth noise tutorial is modified to write log.  
 https://docs.juce.com/master/tutorial_simple_synth_noise.html
 
 [![Image from Gyazo](https://i.gyazo.com/f3e20786bdf03773f89719caffdc2258.png)](https://gyazo.com/f3e20786bdf03773f89719caffdc2258)
